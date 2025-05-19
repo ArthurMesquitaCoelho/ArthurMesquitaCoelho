@@ -36,9 +36,8 @@ Atualmente estou focado no estudo da linguagem **C**, desenvolvendo a base sóli
 
 ---
 
-## 📬 Vamos nos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+## 📬 Vamos nos conectar)]
+(https://www.linkedin.com/in/arthur-mesquita-07526334a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)(https://www.linkedin.com/)  
 [![Gmail](https://img.shields.io/badge/E--mail-arthur.mesquita@email.com-red?style=flat&logo=gmail&logoColor=white)](mailto:arthur.mesquita@email.com)
 
 ---
