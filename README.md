@@ -18,6 +18,12 @@ Atualmente estou focado no estudo da linguagem **C**, desenvolvendo uma base só
 </div>
 
 ---
+📊 Meu Dashboard
+
+![ArthurMesquitaCoelho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArthurMesquitaCoelho&show_icons=true&theme=dark&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMesquitaCoelho&layout=compact&theme=dark)
+---
 
 ## 🧠 Atualmente estudando:
 
